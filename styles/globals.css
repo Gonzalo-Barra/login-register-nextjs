@@ -19,6 +19,9 @@ a {
   box-sizing: border-box;
 }
 
+.error{
+text-color: red;}
+
 @media (prefers-color-scheme: dark) {
   html {
     color-scheme: dark;
